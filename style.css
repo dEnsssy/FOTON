@@ -233,7 +233,7 @@ body {
     color: white;
 }
 
-.filter__form-truck-type,
+/* .filter__form-truck-type,
 .filter__form-axle-type,
 .filter__form-regions,
 .filter__form-period,
@@ -249,7 +249,7 @@ body {
 .filter-btn.activeForm {
     transform: scale(1);
     opacity: 1;
-}
+} */
 
 .activeSpan {
     background-color: #5564a5;
